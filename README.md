@@ -2,22 +2,6 @@
 
 Most people learn blockchain from the surface: wallets, tokens, smart contracts, frameworks and hype. This repository takes the opposite direction.
 
-The goal is to understand blockchain from the inside out:
-
-- memory
-- CPUs
-- operating systems
-- networking
-- concurrency
-- distributed systems
-- cryptography
-- economics
-- consensus
-- EVM internals
-- mempools
-- MEV
-- protocol engineering
-
 Not through shortcuts, but through first principles.
 
 
@@ -141,6 +125,6 @@ It is intended to document the long-term process of understanding complex system
 
 
 
-### License
+## License
 
 MIT
