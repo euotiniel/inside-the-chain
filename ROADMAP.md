@@ -1,8 +1,7 @@
 # ROADMAP
 
-> Long-term roadmap for understanding blockchain from first principles.
+Long-term roadmap for understanding blockchain from first principles.
 
----
 
 ## Foundations
 
@@ -21,7 +20,7 @@ Low-level computing fundamentals.
 | Algorithms | complexity, graphs | algorithm implementations |
 | Data Structures | trees, queues, hash maps | low-level implementations |
 
----
+
 
 ## Cryptography
 
@@ -37,7 +36,7 @@ Mathematical foundations of trustless systems.
 | Zero Knowledge | zk proofs, zk systems | zk simulations |
 | Randomness | distributed randomness | randomness experiments |
 
----
+
 
 ## Distributed Systems
 
@@ -54,7 +53,7 @@ Coordination and fault tolerance between machines.
 | Time & Ordering | Lamport clocks | ordering systems |
 | Network Partitions | split-brain problems | partition simulations |
 
----
+
 
 ## Economics
 
@@ -74,7 +73,6 @@ Markets, incentives and human coordination systems.
 | Governance | DAOs and voting | governance simulations |
 | Auction Theory | gas and blockspace auctions | fee market simulations |
 
----
 
 ## Blockchain
 
@@ -95,7 +93,7 @@ Internal blockchain architecture and execution.
 | Transactions | signing and propagation | transaction pipeline |
 | P2P | peer discovery and networking | peer-to-peer layer |
 
----
+
 
 ## Papers
 
@@ -110,7 +108,7 @@ Research papers, architecture notes and implementation breakdowns.
 | MEV | Flash Boys 2.0 and related papers |
 | Consensus | distributed systems papers |
 
----
+
 
 # Experiments
 
@@ -126,7 +124,6 @@ Practical implementations and simulations.
 | Validator System | staking and validation |
 | MEV Simulation | extraction strategies |
 
----
 
 # Long-Term Objective
 

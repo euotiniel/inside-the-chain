@@ -50,7 +50,6 @@ The goal is not just to collect papers, but to gradually study, annotate and con
 | StarkNet | STARK-based scalability | [StarkNet Documentation](https://docs.starknet.io/?utm_source=chatgpt.com) |
 | Optimistic Rollups | Layer 2 scaling model | [Optimistic Rollups Explained](https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/?utm_source=chatgpt.com) |
 
----
 
 ## Distributed Systems
 
@@ -60,7 +59,6 @@ The goal is not just to collect papers, but to gradually study, annotate and con
 | Raft Paper | Understandable consensus algorithm | [Raft Consensus Paper](https://raft.github.io/raft.pdf?utm_source=chatgpt.com) |
 | Byzantine Generals Problem | Byzantine fault tolerance | [Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf?utm_source=chatgpt.com) |
 
----
 
 ## Cryptography
 
@@ -70,7 +68,6 @@ The goal is not just to collect papers, but to gradually study, annotate and con
 | Bulletproofs | Efficient confidential proofs | [Bulletproofs Paper](https://eprint.iacr.org/2017/1066.pdf?utm_source=chatgpt.com) |
 | Keccak Specifications | SHA-3 / Ethereum hashing | [Keccak Specifications](https://keccak.team/keccak_specs_summary.html?utm_source=chatgpt.com) |
 
----
 
 ## Economics & Mechanism Design
 
@@ -79,7 +76,7 @@ The goal is not just to collect papers, but to gradually study, annotate and con
 | Mechanism Design and Cryptoeconomic Protocols | Incentive systems | [Mechanism Design Paper](https://timroughgarden.org/papers/mechdesign.pdf?utm_source=chatgpt.com) |
 | A Primer on Token Economics | Token incentives | [Token Economics Primer](https://download.blockisland.tech/token-economy.pdf?utm_source=chatgpt.com) |
 
----
+
 
 ## Research Blogs & Technical Writing
 
@@ -90,7 +87,7 @@ The goal is not just to collect papers, but to gradually study, annotate and con
 | Ethereum Research | Ethereum protocol discussions | [Ethereum Research](https://ethresear.ch/?utm_source=chatgpt.com) |
 | a16z Crypto Research | Crypto economics and systems | [a16z Crypto Research](https://a16zcrypto.com/posts/?utm_source=chatgpt.com) |
 
----
+
 
 ## Notes
 

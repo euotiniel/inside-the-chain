@@ -20,7 +20,6 @@ The goal is to understand blockchain from the inside out:
 
 Not through shortcuts, but through first principles.
 
----
 
 ## Philosophy
 
@@ -42,7 +41,6 @@ The objective is not just to "learn blockchain".
 
 The objective is to think like an engineer capable of understanding complex systems deeply.
 
----
 
 ## Structure
 
@@ -56,7 +54,7 @@ The objective is to think like an engineer capable of understanding complex syst
 | **Blockchain** | Internal protocol architecture and execution | `evm` · `mempool` · `gas` · `execution` · `validators` · `state` · `storage` · `rollups` · `smart-contracts` · `security` · `transactions` · `p2p` |
 | **Papers** | Research papers, notes and architecture breakdowns | `bitcoin` · `ethereum` · `uniswap` · `zksync` · `starknet` · `mev` · `scaling` |
 
----
+
 
 ## Module Structure
 
@@ -69,7 +67,7 @@ Each topic generally follows the same internal structure:
 | `labs.md` | Practical experiments, debugging sessions, benchmarks and exercises |
 | `code/` | Implementations, prototypes, simulations and low-level experiments |
 
----
+
 
 ### README.md
 
@@ -131,7 +129,6 @@ Depending on the module, this may include:
 | Economics | AMMs, arbitrage bots, market simulations |
 | Blockchain | mini blockchains, validators, mempools, execution engines |
 
----
 
 ## Important
 
@@ -142,7 +139,7 @@ This repository is not intended to be:
 
 It is intended to document the long-term process of understanding complex systems from first principles.
 
----
+
 
 ### License
 
