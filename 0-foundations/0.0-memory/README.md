@@ -203,7 +203,7 @@ void recursive() {
 This function keeps creating stack frames until the program crashes with a stack overflow.
 
 
-You can [download and run this script]() on your Linux machine (Ubuntu, for example) to inspect stack limits, stack mappings, and stack usage during program execution.
+You can [download and run this script](https://github.com/euotiniel/inside-the-chain/blob/main/0-foundations/0.0-memory/code/stack_inspection.sh) on your Linux machine (Ubuntu, for example) to inspect stack limits, stack mappings, and stack usage during program execution.
 
 After making the script executable and running it:
 
@@ -291,7 +291,7 @@ Stack                                      Heap
 address 0x7ffdd8a30130                    address 0x62c6f2ae12a0
 ┌────────────────────┐                    ┌────────────────────┐
 │ ptr                │                    │         ?          │
-│ value:0x62c6...  ─────────────────────▶ │                    │
+│ value:0x62c6...  ─────────────────────▶│                    │
 └────────────────────┘                    └────────────────────┘
 ```
 
@@ -319,7 +319,7 @@ Stack                                      Heap
 address 0x7ffdd8a30130                    address 0x62c6f2ae12a0
 ┌────────────────────┐                    ┌────────────────────┐
 │ ptr                │                    │         42         │
-│ value:0x62c6...  ─────────────────────▶ │                    │
+│ value:0x62c6...  ─────────────────────▶│                    │
 └────────────────────┘                    └────────────────────┘
 ```
 
