@@ -21,8 +21,6 @@ More:
 - understanding trade-offs
 - building from scratch
 
-The objective is not just to "learn blockchain".
-
 The objective is to think like an engineer capable of understanding complex systems deeply.
 
 
@@ -51,69 +49,6 @@ Each topic generally follows the same internal structure:
 | `labs.md` | Practical experiments, debugging sessions, benchmarks and exercises |
 | `code/` | Implementations, prototypes, simulations and low-level experiments |
 
-
-
-### README.md
-
-Acts as the entry point of the module.
-
-Usually contains:
-- why the topic matters,
-- what is being studied,
-- implementation goals,
-- references,
-- tools,
-- useful links,
-- deliverables.
-
-
-### notes.md
-
-Contains theoretical understanding and explanations.
-
-This file is used for:
-- concepts,
-- architecture notes,
-- diagrams,
-- comparisons,
-- implementation details,
-- observations,
-- open questions.
-
-The goal is not to copy documentation, but to rewrite concepts in a way that demonstrates actual understanding.
-
-
-### labs.md
-
-Contains practical exploration.
-
-Labs focus on:
-- experiments,
-- debugging,
-- simulations,
-- benchmarks,
-- reproducing behavior,
-- testing assumptions,
-- implementation exercises.
-
-Systems are understood more deeply when they are built, measured and intentionally broken.
-
-### code/
-
-Contains actual implementations.
-
-Depending on the module, this may include:
-
-| Area | Possible Implementations |
-|---|---|
-| Foundations | linked lists, allocators, parsers, schedulers |
-| Networking | TCP servers, packet experiments, P2P nodes |
-| Cryptography | wallets, hashing implementations, Merkle trees |
-| Distributed Systems | replication systems, consensus simulations |
-| Economics | AMMs, arbitrage bots, market simulations |
-| Blockchain | mini blockchains, validators, mempools, execution engines |
-
-
 ## Important
 
 This repository is not intended to be:
@@ -122,8 +57,6 @@ This repository is not intended to be:
 - or a "learn blockchain fast" guide.
 
 It is intended to document the long-term process of understanding complex systems from first principles.
-
-
 
 ## License
 
