@@ -6,8 +6,8 @@ Not through shortcuts, but through first principles.
 
 **Currently you can already follow**
 
-- 0-Foundations
-  - [x] [0.0 Memory Fundamentals](https://github.com/euotiniel/inside-the-chain/blob/main/0-foundations/0.0-memory/README.md)
+- **0-Foundations**
+  - [x] [0.0 Memory Fundamentals](https://github.com/euotiniel/inside-the-chain/blob/main/0-foundations/0.0-memory/index.md)
 
 
 ## Philosophy
