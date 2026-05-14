@@ -34,7 +34,7 @@ The objective is to think like an engineer capable of understanding complex syst
 
 | Area | Description | Topics |
 |---|---|---|
-| **Foundations** | Low-level computing fundamentals | `memory` · `cpu` · `operating-systems` · `networking` · `processes` · `threads` · `compilers` · `databases` · `algorithms` · `data-structures` |
+| **Foundations** | Low-level computing fundamentals | `memory` · `operating-systems` · `networking` · `processes` · `threads` · `compilers` · `databases` · `algorithms` · `data-structures` |
 | **Cryptography** | Mathematical foundations of trustless systems | `hashing` · `signatures` · `elliptic-curves` · `merkle-trees` · `commitments` · `wallets` · `zero-knowledge` · `randomness` |
 | **Distributed Systems** | Coordination, replication and fault tolerance between machines | `consensus` · `replication` · `byzantine-faults` · `fault-tolerance` · `distributed-storage` · `eventual-consistency` · `time-and-ordering` · `network-partitions` |
 | **Economics** | Incentives, markets and human coordination systems | `amm` · `mev` · `arbitrage` · `market-making` · `tokenomics` · `behavioral-economics` · `game-theory` · `market-psychology` · `mechanism-design` · `governance` · `auction-theory` |

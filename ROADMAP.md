@@ -10,7 +10,6 @@ Low-level computing fundamentals.
 | Module | Topics | Implementations |
 |---|---|---|
 | Memory | stack, heap, pointers, virtual memory | linked lists, allocators |
-| CPU | registers, syscalls, assembly | assembly experiments |
 | Operating Systems | scheduling, filesystems, processes | mini shell |
 | Networking | TCP/IP, sockets, DNS, HTTP | TCP server, P2P node |
 | Processes | fork, exec, pipes | process manager |
