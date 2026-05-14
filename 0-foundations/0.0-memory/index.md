@@ -15,17 +15,9 @@ This chapter explores memory fundamentals, memory layout, stack, heap, pointers,
 
 ## Code
 
-### Stack Overflow
+- [`stack_overflow.c`](https://github.com/euotiniel/inside-the-chain/blob/main/0-foundations/0.0-memory/code/stack_overflow.c): Demonstrates how recursive function calls create new stack frames until the stack limit is exhausted.
 
-Demonstrates how recursive function calls create new stack frames until the stack limit is exhausted.
-
-- [`stack_overflow.c`](https://github.com/euotiniel/inside-the-chain/blob/main/0-foundations/0.0-memory/code/stack_overflow.c)
-
-### Physical Memory Touch
-
-Demonstrates heap allocation, virtual memory, memory pages, and how touching memory pages forces the operating system to back them with real physical RAM.
-
-- [`physical_memory_touch.c`](https://github.com/euotiniel/inside-the-chain/blob/main/0-foundations/0.0-memory/code/physical_memory_touch.c)
+- [`physical_memory_touch.c`](https://github.com/euotiniel/inside-the-chain/blob/main/0-foundations/0.0-memory/code/physical_memory_touch.c): Demonstrates heap allocation, virtual memory, memory pages, and how touching memory pages forces the operating system to back them with real physical RAM.
 
 ## References
 
