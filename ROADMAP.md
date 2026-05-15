@@ -12,10 +12,10 @@ Low-level computing fundamentals.
 | Memory | stack, heap, pointers, virtual memory | linked lists, allocators |
 | Operating Systems | scheduling, filesystems, processes | mini shell |
 | Networking | TCP/IP, sockets, DNS, HTTP | TCP server, P2P node |
-| Processes | fork, exec, pipes | process manager |
+| Processes & Concurrency | fork, exec, pipes | process manager |
 | Threads | mutexes, race conditions | concurrency simulations |
 | Compilers | parsing, ASTs, bytecode | parser experiments |
-| Databases | indexes, storage engines | mini storage engine |
+| Storage Systems | indexes, storage engines | mini storage engine |
 | Algorithms | complexity, graphs | algorithm implementations |
 | Data Structures | trees, queues, hash maps | low-level implementations |
 
